@@ -1,0 +1,1 @@
+Copy several PNG/JPG images into this folder before GAN training.
